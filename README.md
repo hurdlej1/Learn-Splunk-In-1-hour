@@ -1,16 +1,64 @@
 # Learn-Splunk-In-1-hour
 Splunk 101 - Learn the power of Splunk in 1 hour
 
-Introduction of Splunk
-Splunk is a powerful platform for analyzing machine data. In simple words, Splunk is a software or engine which can be used to Search, Monitor, Investigate, Troubleshoot, Alert and Report any data. 
-Splunk works in three phases,
-Data Identification: Identify the machine data which can answer the requirement.
-Data Transformation: Transform the machine data into results which can answer given requirement.
-Data Visualization: Visualize data in the form of reports, interactive graphs and charts to get valuable insights. 
-Installation
-This section is going to cover Splunk installation. We can download free enterprise version of Splunk from below URL:
-https://www.splunk.com/en_us/download/splunk-enterprise.html
-To start Splunk from Unix or Windows, Direct to Splunk installation folder/bin and execute below command,
-./splunk start: This command is used to start Splunk instance.
-./splunk stop: This command is used to stop Splunk instance.
-./splunk restart: This command is used to restart(stop,start) Splunk instance.
+Course Description:
+
+This course is designed to teach the power of Splunk in 1 hour. This will teach you how to search and navigate in Splunk, use fields, get statistics from your data, create reports, dashboards, and alerts.
+
+Following are the topics that will be covered inside the lecture 
+
+Course Topics:
+
+1) Introduction to Splunk's interface
+
+2) Instaling Splunk
+
+3) Getting Data Into Splunk
+
+4) Using fields in searches
+
+5) Writing Splunk Search Commands using Search Processing Language (SPL)
+
+6) Creating Dashboards
+
+7) Creating Alerts
+
+Course Objectives:
+
+1) Introduction to Splunk's interface
+
+-> Overview of Splunk User Interface
+
+2) Instaling Splunk
+
+-> Installing Splunk on Windows/Mac Computers
+
+3) Getting Data Into Splunk
+
+-> Discussion on different data ingestion methods
+
+-> Ingesting sample file
+
+4) Using fields in searches
+
+-> Understand fields in Splunk-> Use fields in searches-> Use the fields sidebar
+
+5) Writing Splunk Search Commands using Search Processing Language (SPL)
+
+-> Writing search commands like table, rename, dedup, stats
+
+6) Creating Dashboards
+
+-> Creating dashboard
+
+-> Saving search results as a dashboard panel
+
+7) Creating Alerts
+
+-> Discussing all the options to create an alert
+
+These are basic concepts one should know in order to work on Splunk. If there are any specific questions or concerns I can assist.
+
+If there is any difficulty following the lecture, please let us know. We will help you.
+
+We are creating more Splunk courses to teach you the Most useful Search commands. This will teach you how to use search commands. Also, We are going to create more real-time projects on Splunk which will help to understand all the concepts of Splunk. 
